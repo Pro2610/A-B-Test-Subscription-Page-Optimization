@@ -36,8 +36,4 @@ This project analyzes the results of an A/B test aimed at increasing subscriptio
 
 ---
 
-## 📁 Files
 
-- `data/ab_test_subscription_data.csv` — Simulated user data
-- `sql/` — SQL queries for conversion rate, ARPU, revenue per subscriber, and t-test
-- `README.md` — Project summary# A-B-Test-Subscription-Page-Optimization
